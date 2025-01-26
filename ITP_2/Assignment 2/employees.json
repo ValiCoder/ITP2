@@ -1,0 +1,36 @@
+[
+    {
+        "id": 101,
+        "name": "Alice",
+        "position": "Engineer",
+        "salary": 80000,
+        "skills": [
+            "Java",
+            "Python"
+        ],
+        "employment_date": "15-03-22"
+    },
+    {
+        "id": 102,
+        "name": "Bob",
+        "position": "Data Analyst",
+        "salary": 90000,
+        "skills": [
+            "SQL",
+            "Excel",
+            "Python"
+        ],
+        "employment_date": "20-01-23"
+    },
+    {
+        "id": 103,
+        "name": "Charlie",
+        "position": "Manager",
+        "salary": 120000,
+        "skills": [
+            "Communication",
+            "Leadership"
+        ],
+        "employment_date": "10-06-21"
+    }
+]
